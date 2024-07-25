@@ -9,6 +9,7 @@
 
 ## 🌐 ▸ Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cod-fr) 
+[Discord ](https://disforge.com/server/86507-hack-on-cod)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@PlutoniumModding)
 
 ## 📫 ▸ Me Contacter
