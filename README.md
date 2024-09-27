@@ -3,7 +3,7 @@
 ![Zeus](https://beeimg.com/images/m05611082094.jpg)
 
 ## 📊 ▸ Stats
-![Discord M](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)
+[![Discord](https://dcbadge.limes.pink/api/server/https://discord.gg/cod-fr)](https://discord.gg/cod-fr)
 
 [![Github Views](https://visitcount.itsvg.in/api?id=ZeusEnYz01d&label=Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
